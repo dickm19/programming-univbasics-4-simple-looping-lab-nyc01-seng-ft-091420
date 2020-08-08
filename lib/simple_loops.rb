@@ -20,3 +20,5 @@ def output_array(array)
     puts element
   end
 end
+
+def return_string_array
