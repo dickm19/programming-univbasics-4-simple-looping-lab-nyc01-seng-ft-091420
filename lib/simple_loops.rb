@@ -24,7 +24,6 @@ end
 def return_string_array(array)
   array.each do |element|
     element = element.to_s
-    return element
   end
   return array
 end
